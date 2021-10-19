@@ -1,5 +1,5 @@
 # DockerWorkshop
-A great workshop :D!
+Hi jenkins - 1, new push from CI/CD 
 
 In this workshop we will learn how to build images and deploy Docker containers.
 
